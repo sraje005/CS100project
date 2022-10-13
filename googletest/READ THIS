@@ -1,0 +1,1 @@
+While google test was used in order to be able to test some of the functionality of this code it is ultimately not needed for compilation, and GitHub really doesn't like the number of files in there
